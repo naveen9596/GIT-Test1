@@ -4,3 +4,11 @@ def print_message():
 
 # Call the function
 print_message()
+
+
+def print_message():
+    message = "practice: Testing and development!"
+    print(message)
+
+# Call the function
+print_message()
